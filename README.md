@@ -14,4 +14,5 @@ Run:
 ```mvn exec:java -Dexec.mainClass=com.lasanthak.RandomVisualizer```
 
 
-
+##Screen Shot
+![Screen Shot](doc/screenshot.png)
